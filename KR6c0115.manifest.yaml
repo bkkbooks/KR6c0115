@@ -1,0 +1,112 @@
+canonical_identifier: bkk:krp/KR6c0115/v1
+canonical_location: https://kanripo.org/bkk/KR6c0115/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 持誦金剛經靈驗功德記
+  identifiers:
+    alt_id:
+    - T85n2743
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2743.xml
+    old_id: T85n2743
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0115_000.yaml, hash: 'sha256:4f0520658f8d57e4b9a282404ad172a63f7410b30510e2237228fe7b69e91ee4'}
+  - {seq: 1, filename: KR6c0115_001.yaml, hash: 'sha256:99a45e25319cdd9ea09456dbe882bcb07d3229fe5f2b28df469b894b5b6bc0e9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6c0115_001.markers.yaml, hash: 'sha256:0169aca43b8a5dc926315f7f9b31fb6281b94af26b0dbc4fb79f877d1c76e46b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0115_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4420
+  label: 持誦金剛經靈驗功德記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0115_T_001-mulu-1
+    span:
+    - body
+    - 3333
+    - 3333
+  label: 開元皇帝讚金剛經功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0115_T_001-mulu-2
+    span:
+    - body
+    - 4153
+    - 4153
+  label: 大身真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0115_T_001-mulu-3
+    span:
+    - body
+    - 4199
+    - 4199
+  label: 隨心真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0115_T_001-mulu-4
+    span:
+    - body
+    - 4238
+    - 4238
+  label: 心中心真言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0115_T_001-mulu-5
+    span:
+    - body
+    - 4251
+    - 4251
+  label: 金剛兒呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0115_T_001-mulu-6
+    span:
+    - body
+    - 4268
+    - 4268
+  label: 佛母呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0115_T_001-mulu-7
+    span:
+    - body
+    - 4300
+    - 4300
+  label: 文殊菩薩心中真言
+  type: mulu
+  level: 1
+hash: sha256:fe4cbe75cb713a4d457a75e13a2aa1fb4b7a3ed4fd391e1bcf36f4714d3c5211
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0115/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 持誦金剛經靈驗功德記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2743.xml
+    old_id: T85n2743
+hash: sha256:4f0520658f8d57e4b9a282404ad172a63f7410b30510e2237228fe7b69e91ee4

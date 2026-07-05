@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6c0115_000.yaml, hash: 'sha256:4f0520658f8d57e4b9a282404ad172a63f7410b30510e2237228fe7b69e91ee4'}
-  - {seq: 1, filename: KR6c0115_001.yaml, hash: 'sha256:99a45e25319cdd9ea09456dbe882bcb07d3229fe5f2b28df469b894b5b6bc0e9'}
+  - {seq: 1, filename: KR6c0115_001.yaml, hash: 'sha256:65394a2488dbd044e742619ce4234f50b9184debfb024eacb93150c163f2a626'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6c0115_001.markers.yaml, hash: 'sha256:0169aca43b8a5dc926315f7f9b31fb6281b94af26b0dbc4fb79f877d1c76e46b'}
+  - {seq: 0, role: markers, filename: assets/KR6c0115_000.markers.yaml, hash: 'sha256:5abf75e7268c3c20a7f0b35b736191559cb11229e151416312fb6930d76292fa'}
+  - {seq: 1, role: markers, filename: assets/KR6c0115_001.markers.yaml, hash: 'sha256:36d8afa9072427ea97502ce79ae592e3413bca16c12a7a586e0b1eab1e0f0f61'}
 table_of_contents:
 - ref:
     seq: 1
@@ -106,7 +107,4 @@ table_of_contents:
   label: 文殊菩薩心中真言
   type: mulu
   level: 1
-hash: sha256:fe4cbe75cb713a4d457a75e13a2aa1fb4b7a3ed4fd391e1bcf36f4714d3c5211
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:28ca895648093de42ba4b209e86bfb00aff1f149f01fe325b2e2334637ac3603
